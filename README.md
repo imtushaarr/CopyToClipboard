@@ -1,2 +1,2 @@
 # CopyToClipboard
-Create JavaScript Copy To Clipboard
+Create JavaScript Copy To Clipboard.
